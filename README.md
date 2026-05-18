@@ -62,16 +62,25 @@ The system streamlines library operations with secure admin access, allowing aut
 
  — login page
  <img width="594" height="260" alt="image" src="https://github.com/user-attachments/assets/b1844e36-4838-486d-b042-44189c136ed6" />
+
+
 --dashboard
 <img width="628" height="364" alt="image" src="https://github.com/user-attachments/assets/899b474f-81fe-4dbb-9267-f9d537a9a11f" />
+
+
 --new student 
 <img width="594" height="353" alt="image" src="https://github.com/user-attachments/assets/9d75ebb3-e264-4f88-8b51-021f34e5fcf5" />
+
+
 --new book
 <img width="642" height="266" alt="image" src="https://github.com/user-attachments/assets/a72e2c02-c706-4621-9f68-f5516ceca0b9" />
+
 --issue book
 <img width="591" height="266" alt="image" src="https://github.com/user-attachments/assets/9b993678-d4aa-4421-be22-7e38c4c737d5" />
+
 --return book
 <img width="537" height="293" alt="image" src="https://github.com/user-attachments/assets/0e15f8c1-9555-4128-b388-969b94ba67e3" />
+
 --statistics
 <img width="544" height="352" alt="image" src="https://github.com/user-attachments/assets/ea973370-7394-45bc-ab57-88375f132493" />
 
